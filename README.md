@@ -36,7 +36,7 @@ HW3_TP/
 Проверяющий может открыть репозиторий в GitHub Codespaces и выполнить:
 
 ```bash
-cd HW3_TP/HW
+cd HW
 chmod +x run.sh
 ./run.sh build_generator
 ./run.sh run_generator
